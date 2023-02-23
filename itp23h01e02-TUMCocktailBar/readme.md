@@ -12,9 +12,9 @@ In the template repository folder *src/de/in/tum/ase* you can find a file called
     
 Nobody wants to read our available cocktails on a piece of paper, which is why we are developing our very own digital menu. The system should print our cocktail catalog along with all descriptions on the console. As of right now, we have 2 cocktails available: the martini and the mimosa. Therefore the *printCatalog()* method should print the following on the console:
 
-`Martini: a cocktail made with gin or vodka and dry vermouth, usually served with a green olive or a twist of lemon peel.`
-`Mimosa: a mixed drink consisting of champagne and orange juice.`
-`However, this is not happening right now. The method contains a few errors that must be corrected.`
+`Martini: a cocktail made with gin or vodka and dry vermouth, usually served with a green olive or a twist of lemon peel.`  
+`Mimosa: a mixed drink consisting of champagne and orange juice.`   
+`However, this is not happening right now. The method contains a few errors that must be corrected.`    
 
 Hint: Make sure that the printed message matches EXACTLY to what is expected!
 
@@ -22,10 +22,10 @@ Hint: Make sure that the printed message matches EXACTLY to what is expected!
 
 In order to attract more customers, the TUM Cocktail Bar came up with the idea of a Robot Waiter! It should make the process of ordering more efficient and fun! However, in this early version, we are only interested in getting the customer's order via the console. The robot will ask the customer for the order and, after their response, it will confirm the order with a short message. This is what we are expecting:
 
-`What would you like to order?`
-`→ order`
-`Thank you! You ordered: [order].`
-`Note: [order] represents the user input.`
+`What would you like to order?`     
+`→ order`   
+`Thank you! You ordered: [order].`  
+`Note: [order] represents the user input.`  
 
 Take a look at the *robotWaiter()* method in the *Bar.java* file and implement this early stage version of the Robot Waiter.
 

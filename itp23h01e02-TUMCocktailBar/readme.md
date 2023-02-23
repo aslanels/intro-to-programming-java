@@ -30,6 +30,7 @@ In order to attract more customers, the TUM Cocktail Bar came up with the idea o
 Take a look at the *robotWaiter()* method in the *Bar.java* file and implement this early stage version of the Robot Waiter.
 
 **3. Unicode message**
+
 Our previous developer left the weird-looking message when he left the team:
 
 *0x0045 0x0058 0x005A 0x0045 0x004C 0x004C 0x0045 0x004E 0x0054*

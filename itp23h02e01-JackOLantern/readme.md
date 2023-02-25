@@ -50,6 +50,8 @@ The weight of the candle also needs to be considered when calculating the weight
 
 Calculate the weight of the lantern, knowing that the ghost does not weigh anything. Use the method getLanternWeight() to accomplish this. This method should return the calculated value as its result.
 
+![uml](uml.png)
+
 ### Helpful Questions
 
 When writing your constructors, ask yourself: What is the "real life object" I'm modeling like? E.g. does a pumpkin have seeds by nature?

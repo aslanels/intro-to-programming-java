@@ -102,6 +102,8 @@ This part is optional, you can earn up to 3 bonus points by completing this task
 
 In this bonus task, you will implement a capacity check for the elevator. This is where the attribute capacity of the class Elevator comes into play. A limited amount of people are allowed to be in the elevator at any given time. Capacity tells you the maximum capacity the elevator is allowed to have. If the elevator stops at a floor, a person might not be allowed to enter. Unlike the usual elevator, this elevator can actually throw a person out based on the absolute distance between the floor the elevator is currently on and the destination floor of the passenger. The person with the smallest absolute distance is thrown out, or not allowed to enter the elevator. Since it is easier to walk downstairs than upstairs, in case two people have the same absolute distance, the one whose destination floor is downstairs is the one to not travel in the elevator. Be sure to sort the passenger's list in the method openDoor based on the order already introduced. Of course, the person who sadly has to 
 
+![uml](uml.png)
+
 #### Helpful questions
 
 For the Bonus exercise you can consider using the sort() method of Lists.
